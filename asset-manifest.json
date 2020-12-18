@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-04-hooks-feedback/static/css/main.ff67f3b4.chunk.css",
+    "main.js": "/goit-react-hw-04-hooks-feedback/static/js/main.4c5e70f0.chunk.js",
+    "main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/main.4c5e70f0.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.8a59191b.js",
+    "runtime-main.js.map": "/goit-react-hw-04-hooks-feedback/static/js/runtime-main.8a59191b.js.map",
+    "static/js/2.8d4ea476.chunk.js": "/goit-react-hw-04-hooks-feedback/static/js/2.8d4ea476.chunk.js",
+    "static/js/2.8d4ea476.chunk.js.map": "/goit-react-hw-04-hooks-feedback/static/js/2.8d4ea476.chunk.js.map",
+    "index.html": "/goit-react-hw-04-hooks-feedback/index.html",
+    "precache-manifest.36e6bca8f0cb34cde8743ce041f7ac5b.js": "/goit-react-hw-04-hooks-feedback/precache-manifest.36e6bca8f0cb34cde8743ce041f7ac5b.js",
+    "service-worker.js": "/goit-react-hw-04-hooks-feedback/service-worker.js",
+    "static/css/main.ff67f3b4.chunk.css.map": "/goit-react-hw-04-hooks-feedback/static/css/main.ff67f3b4.chunk.css.map",
+    "static/js/2.8d4ea476.chunk.js.LICENSE.txt": "/goit-react-hw-04-hooks-feedback/static/js/2.8d4ea476.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a59191b.js",
+    "static/js/2.8d4ea476.chunk.js",
+    "static/css/main.ff67f3b4.chunk.css",
+    "static/js/main.4c5e70f0.chunk.js"
+  ]
+}
